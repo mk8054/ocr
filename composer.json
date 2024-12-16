@@ -1,0 +1,6 @@
+{
+    "require": {
+        "google/cloud-vision": "^1.10",
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
